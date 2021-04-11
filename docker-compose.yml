@@ -1,0 +1,32 @@
+﻿version: '3.4'
+
+services:
+  rabbitmq:
+    image: rabbitmq:3-management-alpine
+    
+  basketdb:
+    image: redis
+    
+  catalogdb:
+    image: mongo
+    
+  orderdb:
+    image: mcr.microsoft.com/mssql/server
+    
+  catalog:
+    image: catalogapi
+    build:
+      context: .
+      dockerfile: ./src/Catalog/Dockerfile
+
+  basket:
+    image: basketapi
+    build:
+      context: .
+      dockerfile: ./src/Basket/Dockerfile
+
+  order:
+    image: orderapi
+    build:
+      context: .
+      dockerfile: ./src/Order/Order.Api/Dockerfile

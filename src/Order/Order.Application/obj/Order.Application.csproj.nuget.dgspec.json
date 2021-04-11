@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Application\\Order.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Application\\Order.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Application\\Order.Application.csproj",
+        "projectName": "Order.Application",
+        "projectPath": "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Application\\Order.Application.csproj",
+        "packagesPath": "C:\\Users\\Behnam Shateri\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Behnam Shateri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Core\\Order.Core.csproj": {
+                "projectPath": "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Core\\Order.Core.csproj"
+              },
+              "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Infrastructure\\Order.Infrastructure.csproj": {
+                "projectPath": "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Infrastructure\\Order.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Mapster": {
+              "target": "Package",
+              "version": "[7.1.3, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Core\\Order.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Core\\Order.Core.csproj",
+        "projectName": "Order.Core",
+        "projectPath": "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Core\\Order.Core.csproj",
+        "packagesPath": "C:\\Users\\Behnam Shateri\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Behnam Shateri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Infrastructure\\Order.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Infrastructure\\Order.Infrastructure.csproj",
+        "projectName": "Order.Infrastructure",
+        "projectPath": "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Infrastructure\\Order.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Behnam Shateri\\.nuget\\packages\\",
+        "outputPath": "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Behnam Shateri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Core\\Order.Core.csproj": {
+                "projectPath": "D:\\Project\\test\\CSharp\\MicroService\\MicroService\\src\\Order\\Order.Core\\Order.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

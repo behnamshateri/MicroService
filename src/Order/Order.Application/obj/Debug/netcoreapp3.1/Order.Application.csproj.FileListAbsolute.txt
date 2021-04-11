@@ -1,0 +1,14 @@
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\bin\Debug\netcoreapp3.1\Order.Application.deps.json
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\bin\Debug\netcoreapp3.1\Order.Application.dll
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\bin\Debug\netcoreapp3.1\Order.Application.pdb
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\bin\Debug\netcoreapp3.1\Order.Core.dll
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\bin\Debug\netcoreapp3.1\Order.Infrastructure.dll
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\bin\Debug\netcoreapp3.1\Order.Core.pdb
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\bin\Debug\netcoreapp3.1\Order.Infrastructure.pdb
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.csprojAssemblyReference.cache
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.AssemblyInfoInputs.cache
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.AssemblyInfo.cs
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.csproj.CoreCompileInputs.cache
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.csproj.CopyComplete
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.dll
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Application\obj\Debug\netcoreapp3.1\Order.Application.pdb

@@ -1,0 +1,9 @@
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Core\bin\Debug\netcoreapp3.1\Order.Core.deps.json
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Core\bin\Debug\netcoreapp3.1\Order.Core.dll
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Core\bin\Debug\netcoreapp3.1\Order.Core.pdb
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Core\obj\Debug\netcoreapp3.1\Order.Core.csprojAssemblyReference.cache
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Core\obj\Debug\netcoreapp3.1\Order.Core.AssemblyInfoInputs.cache
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Core\obj\Debug\netcoreapp3.1\Order.Core.AssemblyInfo.cs
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Core\obj\Debug\netcoreapp3.1\Order.Core.csproj.CoreCompileInputs.cache
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Core\obj\Debug\netcoreapp3.1\Order.Core.dll
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Core\obj\Debug\netcoreapp3.1\Order.Core.pdb

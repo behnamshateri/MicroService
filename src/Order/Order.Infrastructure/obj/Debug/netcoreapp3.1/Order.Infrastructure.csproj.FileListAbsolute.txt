@@ -1,0 +1,15 @@
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\bin\Debug\netcoreapp3.1\Order.Infrastructure.deps.json
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\bin\Debug\netcoreapp3.1\Order.Infrastructure.runtimeconfig.json
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\bin\Debug\netcoreapp3.1\Order.Infrastructure.runtimeconfig.dev.json
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\bin\Debug\netcoreapp3.1\Order.Infrastructure.dll
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\bin\Debug\netcoreapp3.1\Order.Infrastructure.pdb
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\bin\Debug\netcoreapp3.1\Order.Core.dll
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\bin\Debug\netcoreapp3.1\Order.Core.pdb
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.csprojAssemblyReference.cache
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.AssemblyInfo.cs
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.csproj.CopyComplete
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.dll
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.pdb
+D:\Project\test\CSharp\MicroService\MicroService\src\Order\Order.Infrastructure\obj\Debug\netcoreapp3.1\Order.Infrastructure.genruntimeconfig.cache
