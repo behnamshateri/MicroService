@@ -20,7 +20,6 @@ namespace EventBusRabbitMQ.Producer
         {
             using (var channel = _connection.CreateModel())
             {
-                string exchangeName = queueName + "Exchange";
                 // durable: false -> dar memory  , true -> dar database
                 // exclusive: permission mide baraye estefade be baghie connectionha 
                 channel.QueueDeclare(queueName, durable: false, exclusive: false, autoDelete: false); // elam mikone ke ye queue hast

@@ -48,10 +48,13 @@ namespace EventBusRabbitMQ
                     retryForAvailability++;
                 }
             } while (retryForAvailability < 5);
-            
-            
 
-            return IsConnected;
+            if (IsConnected)
+            {
+                return IsConnected;
+            }
+
+            throw new ApplicationException();
         }
 
         public IModel CreateModel()
@@ -70,16 +73,9 @@ namespace EventBusRabbitMQ
             {
                 return;
             }
-            
-            try
-            {
-                _connection.Dispose();
-                _disposed = true;
-            }
-            catch (Exception)
-            {
-                throw;
-            }
+
+            _connection.Dispose();
+            _disposed = true;
         }
     }
 }
